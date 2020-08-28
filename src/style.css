@@ -1,0 +1,11 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    padding: 30px;
+}
+
+.navbar .btn-link {
+    color: black;
+}
