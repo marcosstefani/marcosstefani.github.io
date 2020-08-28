@@ -6,6 +6,7 @@ body {
     padding: 30px;
 }
 
-.navbar .btn-link {
-    color: black;
+.col-70-centered {
+    padding-left: 15%;
+    padding-right: 15%;
 }
