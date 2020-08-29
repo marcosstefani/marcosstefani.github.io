@@ -35,6 +35,10 @@ a, u, a:hover, u:hover {
     text-decoration: none;
 }
 
+.contacts i {
+    color: white;
+}
+
 .first-section {
     background: url("background.png") no-repeat center center fixed; 
     -webkit-background-size: cover;
